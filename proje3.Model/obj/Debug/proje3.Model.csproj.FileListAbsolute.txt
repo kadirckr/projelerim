@@ -1,0 +1,6 @@
+C:\Users\Kadir\Desktop\proje3\proje3.Model\bin\Debug\proje3.Model.dll
+C:\Users\Kadir\Desktop\proje3\proje3.Model\bin\Debug\proje3.Model.pdb
+C:\Users\Kadir\Desktop\proje3\proje3.Model\obj\Debug\proje3.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\proje3\proje3.Model\obj\Debug\proje3.Model.dll
+C:\Users\Kadir\Desktop\proje3\proje3.Model\obj\Debug\proje3.Model.pdb
+C:\Users\Kadir\Desktop\proje3\proje3.Model\obj\Debug\proje3.Model.csprojResolveAssemblyReference.cache

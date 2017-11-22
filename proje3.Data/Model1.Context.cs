@@ -26,5 +26,7 @@ namespace proje3.Data
         }
     
         public virtual DbSet<User> User { get; set; }
+
+      //  public System.Data.Entity.DbSet<proje3.Data.User> IUsers { get; set; }
     }
 }

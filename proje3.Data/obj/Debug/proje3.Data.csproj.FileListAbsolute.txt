@@ -1,0 +1,11 @@
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\proje3.Data.dll.config
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\proje3.Data.dll
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\proje3.Data.pdb
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kadir\Desktop\proje3\proje3.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kadir\Desktop\proje3\proje3.Data\obj\Debug\proje3.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\proje3\proje3.Data\obj\Debug\proje3.Data.dll
+C:\Users\Kadir\Desktop\proje3\proje3.Data\obj\Debug\proje3.Data.pdb
+C:\Users\Kadir\Desktop\proje3\proje3.Data\obj\Debug\proje3.Data.csprojResolveAssemblyReference.cache
